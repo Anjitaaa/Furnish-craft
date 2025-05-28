@@ -1,2 +1,2 @@
 # Furnish-craft
-Project
+empowers you to create spaces that are uniquely yours
